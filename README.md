@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexeyStruchev
-- 👀 I’m interested in software tesing
+- 👀 I’m interested in software testing
 - 🌱 I’m currently learning Python
 
 <!---
