@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlexeyStruchev/AlexeyStruchev/blob/main/assets/logo.png)]
+![Header](https://github.com/AlexeyStruchev/AlexeyStruchev/blob/main/assets/logo.png)
 
 
 - 👋 Hi, I’m @AlexeyStruchev and work as QA Engineer
