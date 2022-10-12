@@ -5,5 +5,4 @@
 ### I’m interested in quality of software products in different ways
 ### I’m currently learning Python for software testing needs
 
-#### Testing Documentation
 - [Checklists](https://github.com/AlexeyStruchev/checklists.git)
