@@ -5,3 +5,6 @@
 - [Checklists](https://github.com/AlexeyStruchev/checklists.git)
 #### Helper utilities:
 - [XMLNodes Number Compare](https://github.com/AlexeyStruchev/XMLNodes-Number-Compare)
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=python)
