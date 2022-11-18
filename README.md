@@ -10,5 +10,5 @@
 ![Python](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=python)
 ![Selenium web driver](https://img.shields.io/badge/-Selenium_Web_Driver-<COLOR>?style=for-the-badge&logo=selenium&logoColor=FFF933)
 ## Follow me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://github.com/AlexeyStruchev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexey-struchev)
 
